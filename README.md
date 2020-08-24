@@ -1,0 +1,1 @@
+Small js library to convert Sales Navigator links to Linkedin links
