@@ -1,0 +1,31 @@
+{
+  "name": "salesnavigatorlinksconverter",
+  "version": "1.0.0",
+  "description": " Small librarry to convert Sales Navigator Links to \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[l\u001b[1;5C\u001b[1;5C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[CLinkedin links",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "webpack",
+    "build": "webpack --mode=production",
+    "dev": "webpack --watch"
+  },
+  "keywords": [
+    "js",
+    "library",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "\u001b[C\u001b[C\u001b[C\u001b",
+    "linkedin",
+    "sales",
+    "navigator",
+    "converter"
+  ],
+  "author": "Ivan Menshchikov",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.4",
+    "babel-loader": "^8.1.0",
+    "typescript": "^4.0.2",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
